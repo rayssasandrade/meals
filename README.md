@@ -16,16 +16,14 @@ O projeto é a codificação de um aplicativo móveis nativos e envolventes para
 
 ### Iniciando...
 
-- `git clone https://github.com/rayssasandrade/AspiradorDePo.git`
-- `cd AspiradorDePo`
+- `git clone https://github.com/rayssasandrade/meals.git`
+- `cd meals`
 - `flutter run`
 
 ### Resultado
 
 - Execução do algoritmo 
-<br />
-<a href="https://ibb.co/PgqnV00"><img src="https://i.ibb.co/BB0xYFF/expenses1.png" alt="expenses1" width="400px;"></a>
-<a href="https://ibb.co/3F1G7CZ"><img src="https://i.ibb.co/94nzNr5/expenses2.png" alt="expenses2" width="400px;"></a>
+em andamento...
  
 ### Autor
 <a href="#">
