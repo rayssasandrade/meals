@@ -31,11 +31,13 @@ O projeto é a codificação de um aplicativo móveis nativos e envolventes para
 <a href="#"><img style="max-width: 200px; height: auto" src="https://i.ibb.co/Dw0q736/itens-Por-Categoria.png" alt="itens-Por-Categoria"></a>
 <a href="#"><img style="max-width: 200px; height: auto" src="https://i.ibb.co/7QsN5SM/main.png" alt="main"></a>
 </div>
+
 ### Autor
+
 <a href="#">
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGc_Ovg7ftTrw/profile-displayphoto-shrink_800_800/0/1600526654859?e=1643241600&v=beta&t=k16wL6TdDuM4mXYy2s1TjJUmq5pTqgA5bOllODvQSBs" width="100px;" alt=""/>
- <br />
- <sub><b>Rayssa Andrade</b></sub></a>
+<br />
+<sub><b>Rayssa Andrade</b></sub></a>
 
 Feito com ❤️ por Rayssa Andrade 👋🏽 Entre em contato!
 
