@@ -24,7 +24,7 @@ O projeto é a codificação de um aplicativo móveis nativos e envolventes para
 
 - Execução do algoritmo 
 <br />
-<div style="display: flex; wight: 100vw;">
+<div style="display: flex;>
 <a href="#"><img style="max-width: 200px; height: auto" src="https://i.ibb.co/d7Y8jKp/config.png" alt="config"></a>
 <a href="#"><img style="max-width: 200px; height: auto" src="https://i.ibb.co/y8nx9KN/drawer.png" alt="drawer"></a>
 <a href="#"><img style="max-width: 200px; height: auto" src="https://i.ibb.co/dj9WffN/item-detalhe.png" alt="item-detalhe"></a>
