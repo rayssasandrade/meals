@@ -24,7 +24,7 @@ O projeto é a codificação de um aplicativo móveis nativos e envolventes para
 
 - Execução do algoritmo 
 
-<img src="https://i.ibb.co/bLsGT4t/principal.png" alt="principal.png" height="350em" /><img src="https://i.ibb.co/Dw0q736/itens-Por-Categoria.png" height="350em" /> <img src="https://i.ibb.co/G2ByxK5/item-detalhe.png" height="350em"/><img src="https://i.ibb.co/d7Y8jKp/config.png" height="350em" /><img src="https://i.ibb.co/y8nx9KN/drawer.png" height="350em" />
+<img src="https://i.ibb.co/bLsGT4t/principal.png" alt="principal.png" height="410em" /><img src="https://i.ibb.co/Dw0q736/itens-Por-Categoria.png" height="410em" /> <img src="https://i.ibb.co/G2ByxK5/item-detalhe.png" height="410em"/><img src="https://i.ibb.co/y8nx9KN/drawer.png" height="410em" /><img src="https://i.ibb.co/d7Y8jKp/config.png" height="410em" />
 
 ### Autor
 
