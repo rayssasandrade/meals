@@ -23,12 +23,13 @@ O projeto é a codificação de um aplicativo móveis nativos e envolventes para
 ### Resultado
 
 - Execução do algoritmo 
-<a href="https://ibb.co/jHXnb4w"><img style="max-width: 20vw; height: auto" src="https://i.ibb.co/d7Y8jKp/config.png" alt="config" border="0"></a>
-<a href="https://ibb.co/FBbdrch"><img style="max-width: 20vw; height: auto" src="https://i.ibb.co/y8nx9KN/drawer.png" alt="drawer" border="0"></a>
-<a href="https://ibb.co/9cX8ppx"><img style="max-width: 20vw; height: auto" src="https://i.ibb.co/dj9WffN/item-detalhe.png" alt="item-detalhe" border="0"></a>
-<a href="https://ibb.co/1RFS9Hp"><img style="max-width: 20vw; height: auto" src="https://i.ibb.co/Dw0q736/itens-Por-Categoria.png" alt="itens-Por-Categoria" border="0"></a>
-<a href="https://ibb.co/qCTFfDq"><img style="max-width: 20vw; height: auto" src="https://i.ibb.co/7QsN5SM/main.png" alt="main" border="0"></a>
- 
+<br />
+<a href="#"><img style="max-width: 200px; height: auto" src="https://i.ibb.co/d7Y8jKp/config.png" alt="config"></a>
+<a href="#"><img style="max-width: 200px; height: auto" src="https://i.ibb.co/y8nx9KN/drawer.png" alt="drawer"></a>
+<a href="#"><img style="max-width: 200px; height: auto" src="https://i.ibb.co/dj9WffN/item-detalhe.png" alt="item-detalhe"></a>
+<a href="#"><img style="max-width: 200px; height: auto" src="https://i.ibb.co/Dw0q736/itens-Por-Categoria.png" alt="itens-Por-Categoria"></a>
+<a href="#"><img style="max-width: 200px; height: auto" src="https://i.ibb.co/7QsN5SM/main.png" alt="main"></a>
+<br />
 ### Autor
 <a href="#">
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGc_Ovg7ftTrw/profile-displayphoto-shrink_800_800/0/1600526654859?e=1643241600&v=beta&t=k16wL6TdDuM4mXYy2s1TjJUmq5pTqgA5bOllODvQSBs" width="100px;" alt=""/>
